@@ -3,6 +3,7 @@
 2. Install VSC (Visual Studio Code)
 3. Setup public and private SSH keys
 4. Create branch and commit.
+5. Merge two files.
 
 ## Youtube video
 
