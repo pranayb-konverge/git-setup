@@ -6,9 +6,9 @@
 5. Code merge from 2 diffrent branchs and resolving conflicts.
 6. Unstage or undo the last added, last commited or any commit using log.
 - Unstage the added file - `git reset <filename>`
-- Unstage the commit  - `git reset HEAD~1`
+- Unstage (soft delete) the commit  - `git reset HEAD~1`
 - Revert the commit  - `git log`, `git reset <commit id>`
-
+- Revert and delete - `git reset --hard <commit id>`
 
 ## Youtube video
 
