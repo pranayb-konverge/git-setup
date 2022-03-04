@@ -4,6 +4,11 @@
 3. Setup public and private SSH keys
 4. Create branch and commit.
 5. Code merge from 2 diffrent branchs and resolving conflicts.
+6. Unstage or undo the last added, last commited or any commit using log.
+- Unstage the added file - `git reset <filename>`
+- Unstage the commit  - `git reset HEAD~1`
+- Revert the commit  - `git log`, `git reset <commit id>`
+
 
 ## Youtube video
 
